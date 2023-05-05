@@ -163,3 +163,27 @@ function dark5(){
 function dark6(){
     window.open ("https://www.cs3.co.jp/");
 }
+function Windowp2(){
+    window.open ("https://www.nomurakougei.co.jp/solutions/region/");
+}
+function Windowp3(){
+    window.open ("https://www.nomurakougei.co.jp/achievements/urbanretail/");
+}
+function Windowp4(){
+    window.open ("https://www.cs3.co.jp/");
+}
+function Windowp5(){
+    window.open ("https://www.nomurakougei.co.jp/recruit/environment/");
+}
+function Windowp6(){
+    window.open ("https://www.cs3.co.jp/");
+}
+function Windowp7(){
+    window.open ("https://www.cs3.co.jp/");
+}
+function Windowp8(){
+    window.open ("https://www.cs3.co.jp/");
+}
+function Windowso(){
+    window.open ("https://www.cs3.co.jp/");
+}
