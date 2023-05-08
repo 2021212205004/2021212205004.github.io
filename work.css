@@ -574,3 +574,8 @@ img {
     font-size: 8px;
     width: 150px;
 }
+.scroll {
+    overflow-x: scroll;
+    margin-bottom: 27px;
+    
+}
