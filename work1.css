@@ -6,19 +6,18 @@
 
 }
 @keyframes Yui{
-   0% {
-     transform: translateX(0px);
-   }
-   33% {
-     transform: translateX(-960px);
-   }
-   66% {
-     transform: translateX(-1920px);
-   }
-   100% {
-     transform: translateX(0px);
-   }
-   
+    0% {
+        transform: translateX(0px);
+    }
+    33% {
+        transform: translateX(-1584px);
+    }
+    66% {
+        transform: translateX(-3168px);
+    }
+    100% {
+        transform: translateX(0px);
+    }
 }
 ol li {
 animation:focus 10s linear infinite ;
