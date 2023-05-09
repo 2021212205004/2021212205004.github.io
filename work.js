@@ -2,7 +2,7 @@ function Windowlook(){
     window.open("https://www.nomurakougei.co.jp/news/");
 }
 function news(){
-    document.getElementById("light1").src = "../img/6.png";
+   $("#light1").attr("src","../img/6.png");
 }
 function release(){
     document.getElementById("light1").src = "../img/32.png";
