@@ -5,19 +5,19 @@ function news(){
    $("#light1").attr("src","../img/6.png");
 }
 function release(){
-    document.getElementById("light1").src = "../img/32.png";
+     $("#light1").attr("src","../img/32.png");
 }
 function inf(){
-    document.getElementById("light1").src = "../img/33.png";
+     $("#light1").attr("src","../img/33.png");
 }
 function ir(){
-    document.getElementById("light1").src = "../img/34.png";
+     $("#light1").attr("src","../img/34.png");
 }
 function media(){
-    document.getElementById("light1").src = "../img/35.png";
+     $("#light1").attr("src","../img/35.png");
 }
 function tree(){
-    document.getElementById("light1").src = "../img/36.png";
+     $("#light1").attr("src","../img/36.png");
 }
 function Windowf1(){
     window.open("https://www.nomurakougei.co.jp/achievements/page/w-osaka/");
