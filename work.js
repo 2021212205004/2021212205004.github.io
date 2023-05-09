@@ -5,7 +5,7 @@ function news(){
     document.getElementById("light1").src = "../img/6.png";
 }
 function release(){
-    document.getElementById("light1").src = "https://raw.githubusercontent.com/2021212205004/2021212205004.github.io/main/img/32.png";
+    document.getElementById("light1").src = "../img/32.png";
 }
 function inf(){
     document.getElementById("light1").src = "../img/33.png";
